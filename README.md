@@ -26,22 +26,14 @@ git init
 npm install
 
 ## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-# npm
 npm run dev
+Start the development server on `http://localhost:3000`
 
 ## Production
-
+npm run build
 Build the application for production:
 
-# npm
-npm run build
-
 Locally preview production build:
-
-# npm
 npm run preview
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
