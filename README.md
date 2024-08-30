@@ -27,11 +27,11 @@ npm install
 
 ## Development Server
 npm run dev
-Start the development server on `http://localhost:3000`
+## Start the development server on `http://localhost:3000`
 
 ## Production
 npm run build
-##Build the application for production:
+## Build the application for production:
 
 ## Locally preview production build:
 npm run preview
