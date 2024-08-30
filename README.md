@@ -31,9 +31,9 @@ Start the development server on `http://localhost:3000`
 
 ## Production
 npm run build
-Build the application for production:
+##Build the application for production:
 
-Locally preview production build:
+## Locally preview production build:
 npm run preview
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
