@@ -6,7 +6,7 @@
 
 ## Clonar Repositório
 ```
-git clone #### NovoProjeto
+git clone https://github.com/Arturstriker3/Nuxt-Typescript-Tailwind-Prisma NovoProjeto
 ```
 
 ## Remover Referência Original
@@ -22,14 +22,13 @@ git init
 ## Setup
 
 ```bash
-# npm
+# Dependencies Install
 npm install
 
 ## Development Server
 
 Start the development server on `http://localhost:3000`:
 
-```bash
 # npm
 npm run dev
 
@@ -37,14 +36,13 @@ npm run dev
 
 Build the application for production:
 
-```bash
 # npm
 npm run build
 
 Locally preview production build:
 
-```bash
 # npm
 npm run preview
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+```
